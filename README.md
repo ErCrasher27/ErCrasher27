@@ -13,9 +13,9 @@
 <a href="https://github.com/ErCrasher27" target="_blank"><img src="" alt="github"/></a>
 <a href="https://www.linkedin.com/in/francesco-grauso-5b2314240/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"></a>
 <a href="https://www.instagram.com/fra_grauso/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram"/></a>
-<a href="https://www.facebook.com/ErCrasher/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="facebook"/></a>
+<a href="https://www.facebook.com/ErCrasher/" target="_blank"><img src="" alt="facebook"/></a>
 <a href="" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter"/></a>
-<a href="https://www.francescograuso.it"><img src="https://www.pngitem.com/middle/hoohmxh_source-code-icon-png-transparent-png/" alt="https://www.francescograuso.it"/></a>
+<a href="https://www.francescograuso.it"><img src="" alt="francescograuso"/></a>
 </div>
 
 
