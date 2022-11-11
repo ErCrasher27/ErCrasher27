@@ -27,14 +27,14 @@
 <h3>Back-end & Front-end</h3>
 
 <a href="" target="_blank"><img src="" alt="kotlin"/></a>
-<a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python"/></a>
-<a href="https://www.lua.org" target="_blank"><img src="https://www.lua.org/images/luaa.gif" alt="LUA"/></a>
-<a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c"/></a>
-<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="c#"/></a>
+<a href="" target="_blank"><img src="" alt="java"/></a>
+<a href="" target="_blank"><img src="" alt="python"/></a>
+<a href="" target="_blank"><img src="" alt="lua"/></a>
+<a href="" target="_blank"><img src="" alt="c"/></a>
+<a href="" target="_blank"><img src="" alt="c++"/></a>
+<a href="" target="_blank"><img src="" alt="c#"/></a>
 <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="NodeJS"/></a>
+<a href="" target="_blank"><img src="" alt="nodejs"/></a>
 
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
@@ -58,19 +58,19 @@
 <a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/-apache-white?logo=apache&logoColor=D22128&style=for-the-badge" alt="apache"/></a>
 
 <h3>IDE & Tools</h3>
-<a href="" target="_blank"><img src="" alt="Android Studio"/></a>
-<a href="" target="_blank"><img src="" alt="IntelliJ"/></a>
-<a href="" target="_blank"><img src="" alt="Visual Studio Code"/></a>
-<a href="" target="_blank"><img src="" alt="Visual Studio 2022"/></a>
-<a href="" target="_blank"><img src="" alt="Notepad++"/></a>
-<a href="" target="_blank"><img src="" alt="Apache NetBeans"/></a>
+<a href="" target="_blank"><img src="" alt="androidstudio"/></a>
+<a href="" target="_blank"><img src="" alt="intellij"/></a>
+<a href="" target="_blank"><img src="" alt="visualstudiocode"/></a>
+<a href="" target="_blank"><img src="" alt="visualstudio2022"/></a>
+<a href="" target="_blank"><img src="" alt="notepad++"/></a>
+<a href="" target="_blank"><img src="" alt="apachenetbeans"/></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
 <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/-phpmyadmin-white?logo=phpmyadmin&logoColor=6C78AF&style=for-the-badge" alt="phpmyadmin"/></a>
 <a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
-<a href="" target="_blank"><img src="" alt="MacOs"/></a>
-<a href="" target="_blank"><img src="" alt="IOS"/></a>
-<a href="" target="_blank"><img src="" alt="Android"/></a>
+<a href="" target="_blank"><img src="" alt="macos"/></a>
+<a href="" target="_blank"><img src="" alt="ios"/></a>
+<a href="" target="_blank"><img src="" alt="android"/></a>
 
 
 </div>
