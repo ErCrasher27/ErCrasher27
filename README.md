@@ -85,7 +85,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=ErCrasher27&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ErCrasher27)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ErCrasher27&theme=tokyonight&hide_border=true)](https://github.com/ErCrasher27)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ErCrasher27&theme=tokyonight&hide_border=true)](https://github.com/ErCrasher27)
 
 </div>
 </div>
