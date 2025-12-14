@@ -9,12 +9,12 @@ Self-taught coder passionate about automation, mobile apps, and exploring new te
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stack
 
-**Mobile:** Kotlin, Java, Android Studio, Jetpack Compose  
-**Scripting:** Python, Python-CAN  
-**Low-level:** C, C++, C#, Assembly  
-**Web:** JavaScript, HTML, PHP, SQL  
+**Languages:** Kotlin, Java, Python, C#, C, C++, Assembly, JavaScript, PHP  
+**Mobile:** Android Studio, Jetpack Compose  
+**Web Frameworks:** React, Angular, Vue.js, jQuery  
+**Database:** SQL  
 **DevOps:** Git, Jenkins, SonarQube, CI/CD
 
 ---
