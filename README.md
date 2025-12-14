@@ -3,7 +3,9 @@
 Android Software Developer @ Stellantis | Netcom Group Consultant  
 Self-taught coder passionate about automation, mobile apps, and exploring new technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-grauso-27-swd/)
+<a href="https://www.linkedin.com/in/francesco-grauso-27-swd/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
